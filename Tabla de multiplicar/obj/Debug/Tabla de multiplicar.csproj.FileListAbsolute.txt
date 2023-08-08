@@ -1,0 +1,22 @@
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Tabla de multiplicar\bin\Debug\Tabla de multiplicar.exe.config
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Tabla de multiplicar\bin\Debug\Tabla de multiplicar.exe
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Tabla de multiplicar\bin\Debug\Tabla de multiplicar.pdb
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Tabla de multiplicar\obj\Debug\Tabla de multiplicar.csproj.AssemblyReference.cache
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Tabla de multiplicar\obj\Debug\Tabla_de_multiplicar.Form1.resources
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Tabla de multiplicar\obj\Debug\Tabla_de_multiplicar.Properties.Resources.resources
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Tabla de multiplicar\obj\Debug\Tabla de multiplicar.csproj.GenerateResource.cache
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Tabla de multiplicar\obj\Debug\Tabla de multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Tabla de multiplicar\obj\Debug\Tabla de multiplicar.exe
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Tabla de multiplicar\obj\Debug\Tabla de multiplicar.pdb
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Tabla de multiplicar\obj\Debug\Tabla_de_multiplicar.Form2.resources
+D:\Tabla de multiplicar\bin\Debug\Tabla de multiplicar.exe.config
+D:\Tabla de multiplicar\bin\Debug\Tabla de multiplicar.exe
+D:\Tabla de multiplicar\bin\Debug\Tabla de multiplicar.pdb
+D:\Tabla de multiplicar\obj\Debug\Tabla de multiplicar.csproj.AssemblyReference.cache
+D:\Tabla de multiplicar\obj\Debug\Tabla_de_multiplicar.Form1.resources
+D:\Tabla de multiplicar\obj\Debug\Tabla_de_multiplicar.Form2.resources
+D:\Tabla de multiplicar\obj\Debug\Tabla_de_multiplicar.Properties.Resources.resources
+D:\Tabla de multiplicar\obj\Debug\Tabla de multiplicar.csproj.GenerateResource.cache
+D:\Tabla de multiplicar\obj\Debug\Tabla de multiplicar.csproj.CoreCompileInputs.cache
+D:\Tabla de multiplicar\obj\Debug\Tabla de multiplicar.exe
+D:\Tabla de multiplicar\obj\Debug\Tabla de multiplicar.pdb
